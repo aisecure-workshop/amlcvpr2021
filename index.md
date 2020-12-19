@@ -83,7 +83,7 @@ The goal of this competition is to evaluate the adversarial robustness of image 
 
 
 
-<div>
+
 <div class="instructor">
     <a href="https://lihi.net.technion.ac.il/">
         <div class="instructorphoto"><img src="imgs/zelnik.jpg"></div>
@@ -111,38 +111,37 @@ The goal of this competition is to evaluate the adversarial robustness of image 
         <div>Percy Liang<br>Stanford University<br><br><br><br></div>
     </a>
 </div>
-</div>
-<p></p>
 
-<div>
+
+
 <div class="instructor">
     <a href="https://www.papernot.fr/">
         <div class="instructorphoto"><img src="imgs/nicolas.jpg"></div>
-        <div>Nicolas Papernot<br>University of Toronto<br></div>
+        <div>Nicolas Papernot<br>University of Toronto<br><br><br><br></div>
     </a>
 </div>
     
 <div class="instructor">
     <a href="https://safeai-lab.github.io/">
         <div class="instructorphoto"><img src="imgs/ding_zhao.jpg"></div>
-        <div>Ding Zhao<br>CMU</div>
+        <div>Ding Zhao<br>CMU<br><br><br><br></div>
     </a>
 </div>
     
 <div class="instructor">
     <a href="https://people.eecs.berkeley.edu/~trevor/">
         <div class="instructorphoto"><img src="imgs/trevor.jpg"></div>
-        <div>Trevor Darrell<br>UC Berkeley<br></div>
+        <div>Trevor Darrell<br>UC Berkeley<br><br><br><br></div>
     </a>
 </div>
     
 <div class="instructor">
     <a href="https://www.csail.mit.edu/person/una-may-oreilly">
         <div class="instructorphoto"><img src="imgs/reilly.png"></div>
-        <div>Una-May O’Reilly<br>MIT<br></div>
+        <div>Una-May O’Reilly<br>MIT<br><br><br><br></div>
     </a>
 </div>
-</div>
+
 
 <!-- * [Lihi Zelnik](https://lihi.net.technion.ac.il/) (The Technion – Israel Institute of Technology/Alibaba Group) -->
 <!-- Relevance: expertise in computer vision, and has done extensive work on  robust perception. -->
@@ -196,37 +195,36 @@ The goal of this competition is to evaluate the adversarial robustness of image 
 
 ## Organizers
 
-<div>
+
 <div class="instructor">
     <a href="https://aisecure.github.io/">
         <div class="instructorphoto"><img src="imgs/boli.png"></div>
-        <div>Bo Li<br>UIUC</div>
+        <div>Bo Li<br>UIUC<br><br><br><br></div>
     </a>
 </div>
     
 <div class="instructor">
     <a href="https://jungyhuk.github.io/">
         <div class="instructorphoto"><img src="imgs/xinyun.jpg"></div>
-        <div>Xinyun Chen<br>UC Berkeley</div>
+        <div>Xinyun Chen<br>UC Berkeley<br><br><br><br></div>
     </a>
 </div>
     
 <div class="instructor">
     <a href="https://people.eecs.berkeley.edu/~dawnsong/">
         <div class="instructorphoto"><img src="imgs/dawn.png"></div>
-        <div>Dawn Song<br>UC Berkeley</div>
+        <div>Dawn Song<br>UC Berkeley<br><br><br><br></div>
     </a>
 </div>
     
 <div class="instructor">
     <a href="http://luthuli.cs.uiuc.edu/~daf/">
         <div class="instructorphoto"><img src="imgs/forsyth.jpg"></div>
-        <div>David Forsyth<br>UIUC</div>
+        <div>David Forsyth<br>UIUC<br><br><br><br></div>
     </a>
 </div>
-</div>
-<br>
-<div>
+
+
 <div class="instructor">
     <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml">
         <div class="instructorphoto"><img src="imgs/junzhu.jpg"></div>
@@ -251,18 +249,18 @@ The goal of this competition is to evaluate the adversarial robustness of image 
         <div>Yuan He<br>Alibaba Group<br><br><br><br></div>
     </a>
 </div>
-</div>
+
 
 <div class="instructor">
     <a href="https://kkkkahlua.github.io/">
         <div class="instructorphoto"><img src="imgs/fanwu.png"></div>
-        <div>Fan Wu<br>UIUC</div>
+        <div>Fan Wu<br>UIUC<br><br><br><br></div>
     </a>
 </div>
 <div class="instructor">
     <a href="https://alphapav.github.io/">
         <div class="instructorphoto"><img src="imgs/chulin.jpg"></div>
-        <div>Chulin Xie<br>UIUC</div>
+        <div>Chulin Xie<br>UIUC<br><br><br><br></div>
     </a>
 </div>
 <!-- 
