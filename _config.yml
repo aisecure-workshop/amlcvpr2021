@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+title:   Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges (AML-CV)
+description: Workshop at CVPR 2021 
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  auto_ids:       true
+plugins_dir:
+  - jekyll-seo-tag
+  - jekyll-sitemap
