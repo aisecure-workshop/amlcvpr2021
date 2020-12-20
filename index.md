@@ -28,9 +28,9 @@ Topics include but are not limited to:
 
 
 ### Paper Submissions  
-* **Paper submission deadline**: 5/10/2021
-* **Notification to authors**: 6/1/2021
-* **Camera ready deadline**: 6/12/2021
+* **Paper submission deadline**: May 10, 2021
+* **Notification to authors**: June 1, 2021
+* **Camera ready deadline**: June 12, 2021
 
 
 
@@ -163,7 +163,7 @@ The goal of this competition is to evaluate the adversarial robustness of image 
 
 
 
-## Schedules
+## Schedule
 
 
 | **Time**                                                         | **Event**                             |
@@ -189,27 +189,13 @@ The goal of this competition is to evaluate the adversarial robustness of image 
 | 3:00 - 3:30 | Invited Talk #7: Alina Oprea      |
 | 3:30 - 4:00 | Invited Talk #8: Una-May O’Reilly |
 |                                              |**Session 5: Adversarial Machine Learning Competition**|
-| 4:00-4:45                           | Winners results showoff |
-| 4:45-5:00                                   | Awarding session |
+| 4:00 - 4:45                           | Winners results showoff |
+| 4:45 - 5:00                                   | Awarding session |
 
 
 ## Organizers
 
-
-<div class="instructor">
-    <a href="https://aisecure.github.io/">
-        <div class="instructorphoto"><img src="imgs/boli.png"></div>
-        <div>Bo Li<br>UIUC<br><br><br><br></div>
-    </a>
-</div>
-    
-<div class="instructor">
-    <a href="https://jungyhuk.github.io/">
-        <div class="instructorphoto"><img src="imgs/xinyun.jpg"></div>
-        <div>Xinyun Chen<br>UC Berkeley<br><br><br><br></div>
-    </a>
-</div>
-    
+### Faculty Organizers    
 <div class="instructor">
     <a href="https://people.eecs.berkeley.edu/~dawnsong/">
         <div class="instructorphoto"><img src="imgs/dawn.png"></div>
@@ -217,6 +203,13 @@ The goal of this competition is to evaluate the adversarial robustness of image 
     </a>
 </div>
     
+<div class="instructor">
+    <a href="https://aisecure.github.io/">
+        <div class="instructorphoto"><img src="imgs/boli.png"></div>
+        <div>Bo Li<br>UIUC<br><br><br><br></div>
+    </a>
+</div>
+
 <div class="instructor">
     <a href="http://luthuli.cs.uiuc.edu/~daf/">
         <div class="instructorphoto"><img src="imgs/forsyth.jpg"></div>
@@ -250,17 +243,26 @@ The goal of this competition is to evaluate the adversarial robustness of image 
     </a>
 </div>
 
+### Student Organizers 
+
+<div class="instructor">
+    <a href="https://jungyhuk.github.io/">
+        <div class="instructorphoto"><img src="imgs/xinyun.jpg"></div>
+        <div>Xinyun Chen<br>UC Berkeley</div>
+    </a>
+</div>
 
 <div class="instructor">
     <a href="https://kkkkahlua.github.io/">
         <div class="instructorphoto"><img src="imgs/fanwu.png"></div>
-        <div>Fan Wu<br>UIUC<br><br><br><br></div>
+        <div>Fan Wu<br>UIUC</div>
     </a>
 </div>
+
 <div class="instructor">
     <a href="https://alphapav.github.io/">
         <div class="instructorphoto"><img src="imgs/chulin.jpg"></div>
-        <div>Chulin Xie<br>UIUC<br><br><br><br></div>
+        <div>Chulin Xie<br>UIUC</div>
     </a>
 </div>
 <!-- 
