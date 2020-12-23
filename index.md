@@ -195,25 +195,26 @@ The goal of this competition is to evaluate the adversarial robustness of image 
 
 ## Organizers
 
+
 ### Faculty Organizers    
 <div class="instructor">
     <a href="https://people.eecs.berkeley.edu/~dawnsong/">
         <div class="instructorphoto"><img src="imgs/dawn.png"></div>
-        <div>Dawn Song<br>UC Berkeley<br><br><br><br></div>
+        <div>Dawn Song<br>UC Berkeley<br><br></div>
     </a>
 </div>
     
 <div class="instructor">
     <a href="https://aisecure.github.io/">
         <div class="instructorphoto"><img src="imgs/boli.png"></div>
-        <div>Bo Li<br>UIUC<br><br><br><br></div>
+        <div>Bo Li<br>UIUC<br><br></div>
     </a>
 </div>
 
 <div class="instructor">
     <a href="http://luthuli.cs.uiuc.edu/~daf/">
         <div class="instructorphoto"><img src="imgs/forsyth.jpg"></div>
-        <div>David Forsyth<br>UIUC<br><br><br><br></div>
+        <div>David Forsyth<br>UIUC<br><br></div>
     </a>
 </div>
 
@@ -221,25 +222,25 @@ The goal of this competition is to evaluate the adversarial robustness of image 
 <div class="instructor">
     <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml">
         <div class="instructorphoto"><img src="imgs/junzhu.jpg"></div>
-        <div>Jun Zhu<br>Tsinghua University<br><br><br><br></div>
+        <div>Jun Zhu<br>Tsinghua University<br><br></div>
     </a>
 </div>
 <div class="instructor">
     <a href="https://www.suhangss.me/">
         <div class="instructorphoto"><img src="imgs/hangsu.jpg"></div>
-        <div>Hang Su<br>Tsinghua University<br><br><br><br></div>
+        <div>Hang Su<br>Tsinghua University<br><br></div>
     </a>
 </div>
 <div class="instructor">
-    <a href="https://lihi.net.technion.ac.il/">
-        <div class="instructorphoto"><img src="imgs/zelnik.jpg"></div>
-        <div>Lihi Zelnik<br>The Technion – Israel Institute of Technology/Alibaba Group</div>
+    <a href="">
+        <div class="instructorphoto"><img src="imgs/hui.jpeg"></div>
+        <div>Hui Xue<br>Alibaba Group<br><br></div>
     </a>
 </div>
 <div class="instructor">
     <a href="https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN">
         <div class="instructorphoto"><img src="imgs/yuanhe.jpeg"></div>
-        <div>Yuan He<br>Alibaba Group<br><br><br><br></div>
+        <div>Yuan He<br>Alibaba Group<br><br></div>
     </a>
 </div>
 
