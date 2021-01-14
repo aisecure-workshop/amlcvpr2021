@@ -32,7 +32,7 @@ Topics include but are not limited to:
 * **Notification to authors**: June 1, 2021
 * **Camera ready deadline**: June 12, 2021
 
-
+Submissions need to be anonymized, and follow the CVPR 2021 template described <a href="http://cvpr2021.thecvf.com/node/33#call-for-paper" target="_blank">here</a>. Submissions should include at most 4 pages, excluding the references and appendices. Accepted papers will not be included in the official CVPR proceedings.
 
 ## Competition
 ### Competition Track I: Adversarial Attacks on ML Defense Models
@@ -210,14 +210,6 @@ The goal of this competition is to evaluate the adversarial robustness of image 
         <div>Bo Li<br>UIUC<br><br></div>
     </a>
 </div>
-
-<div class="instructor">
-    <a href="http://luthuli.cs.uiuc.edu/~daf/">
-        <div class="instructorphoto"><img src="imgs/forsyth.jpg"></div>
-        <div>David Forsyth<br>UIUC<br><br></div>
-    </a>
-</div>
-
 
 <div class="instructor">
     <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml">
